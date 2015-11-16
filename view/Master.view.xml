@@ -1,0 +1,32 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:footerbar="sap.ushell.ui.footerbar" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="GoodsReceipt1.view.Master">
+	<Page id="masterPage" title="{i18n&gt;masterTitle}">
+		<subHeader id="masterSubHeader">
+			<Bar id="searchBar">
+				<contentMiddle>
+					<SearchField id="searchField" placeholder="{i18n&gt;masterSearchPlaceholder}" search="onSearch" showRefreshButton="{device&gt;/isNoTouch}" tooltip="{i18n&gt;masterSearchTooltip}" width="100%"/>
+				</contentMiddle>
+			</Bar>
+		</subHeader>
+		<content>
+			<List growing="true" growingScrollToLoad="true" id="list" items="{/WarehouseOrderSet}" mode="{device&gt;/listMode}" noDataText="{i18n&gt;masterListNoDataText}" select="onSelect">
+				<items id="masterList">
+					<ObjectListItem counter="0" id="mainListItem" markFavorite="false" markFlagged="false" number="{Status}" numberUnit="{Who}" press="onSelect" showMarkers="false" title="{Lgnum}" type="{device&gt;/listItemType}">
+						<core:ExtensionPoint name="extListItemInfo"/>
+					</ObjectListItem>
+				</items>
+			</List>
+		</content>
+		<footer id="masterFooter">
+			<Toolbar id="masterToolbar">
+				<content>
+					<footerbar:SettingsButton icon="sap-icon://action-settings" id="settingsButton" tooltip="Help"/>
+					<OverflowToolbar id="otbSubheader1">
+						<ToolbarSpacer/>
+						<OverflowToolbarButton icon="sap-icon://sort" press="onSort" text="Sort" type="Transparent"/>
+						<OverflowToolbarButton icon="sap-icon://group-2" press="onGroup" text="Group" type="Transparent"/>
+					</OverflowToolbar>
+				</content>
+			</Toolbar>
+		</footer>
+	</Page>
+</mvc:View>

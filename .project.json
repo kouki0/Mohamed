@@ -1,0 +1,45 @@
+{
+  "dataBinding": {
+    "/view/Master.view.xml": {
+      "entitySet": "WarehouseOrderSet"
+    },
+    "/view/Detail.view.xml": {
+      "entitySet": "WarehouseOrderSet"
+    },
+    "/view/NotFound.view.xml": {
+      "entitySet": "UNBINDKEY"
+    },
+    "/view/App.view.xml": {
+      "entitySet": "UNBINDKEY"
+    },
+    "/view/Purchase.view.xml": {
+      "entitySet": "WarehouseTaskSet"
+    }
+  },
+  "generation": [
+    {
+      "templateId": "ui5template.fioriMasterDetail",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Mon, 19 Oct 2015 09:55:30 GMT"
+    },
+    {
+      "templateId": "ui5template.basicSAPUI5ApplicationComponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Mon, 19 Oct 2015 13:45:19 GMT"
+    }
+  ],
+  "mockpreview": {
+    "mockUri": "",
+    "metadataFilePath": "model/metadata.xml",
+    "loadJSONFiles": true,
+    "loadCustomRequests": false,
+    "mockRequestsFilePath": ""
+  },
+  "translation": {
+    "translationDomain": "",
+    "supportedLanguages": "en,fr,de",
+    "defaultLanguage": "en",
+    "defaultI18NPropertyFile": "i18n.properties",
+    "resourceModelName": "i18n"
+  }
+}

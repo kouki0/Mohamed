@@ -1,0 +1,17 @@
+<core:FragmentDefinition
+ xmlns="sap.m"
+ xmlns:core="sap.ui.core">
+ 
+ <ResponsivePopover
+  title="Hello"
+  class="sapUiPopupWithPadding"
+  placement="Vertical" verticalScrolling="true">
+  <beginButton>
+   <Button text="Create" press="onItemDetailPressed" />
+  </beginButton>
+  <endButton>
+   <Button text="Overview" press="handleCloseButton" />
+  </endButton>
+
+ </ResponsivePopover>
+</core:FragmentDefinition>

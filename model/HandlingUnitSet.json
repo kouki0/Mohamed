@@ -1,0 +1,301 @@
+[{
+	"Mandt": "Mandt 1",
+	"GuidHu": "10101111001000100111011111011000",
+	"Huident": "Huident 1",
+	"PmatGuid": "00111001101011011100000101111001",
+	"NWeight": 1378.97,
+	"UnitGw": "UnitGw 1",
+	"NVolume": 4225.45,
+	"UnitGv": "UnitGv 1",
+	"Lgnum": "Lgnum 1",
+	"Entitled": "Entitled 1",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 1',GuidHu=10101111001000100111011111011000,Lgnum='Lgnum 1')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 2",
+	"GuidHu": "11000110001100001010011100001110",
+	"Huident": "Huident 2",
+	"PmatGuid": "11100110011000100111101111011101",
+	"NWeight": 8649.14,
+	"UnitGw": "UnitGw 2",
+	"NVolume": 5083.69,
+	"UnitGv": "UnitGv 2",
+	"Lgnum": "Lgnum 2",
+	"Entitled": "Entitled 2",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 2',GuidHu=11000110001100001010011100001110,Lgnum='Lgnum 2')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 3",
+	"GuidHu": "10000000011000100111100111001001",
+	"Huident": "Huident 3",
+	"PmatGuid": "10011001111010101101110001101001",
+	"NWeight": 1197.4,
+	"UnitGw": "UnitGw 3",
+	"NVolume": 8628.39,
+	"UnitGv": "UnitGv 3",
+	"Lgnum": "Lgnum 3",
+	"Entitled": "Entitled 3",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 3',GuidHu=10000000011000100111100111001001,Lgnum='Lgnum 3')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 4",
+	"GuidHu": "10000011111110001100100000111011",
+	"Huident": "Huident 4",
+	"PmatGuid": "01000001010101011110011010110001",
+	"NWeight": 3188.04,
+	"UnitGw": "UnitGw 4",
+	"NVolume": 2056.73,
+	"UnitGv": "UnitGv 4",
+	"Lgnum": "Lgnum 4",
+	"Entitled": "Entitled 4",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 4',GuidHu=10000011111110001100100000111011,Lgnum='Lgnum 4')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 5",
+	"GuidHu": "10011001110010000010000110101100",
+	"Huident": "Huident 5",
+	"PmatGuid": "01010010011011001010111100000110",
+	"NWeight": 9746.06,
+	"UnitGw": "UnitGw 5",
+	"NVolume": 1580.39,
+	"UnitGv": "UnitGv 5",
+	"Lgnum": "Lgnum 5",
+	"Entitled": "Entitled 5",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 5',GuidHu=10011001110010000010000110101100,Lgnum='Lgnum 5')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 6",
+	"GuidHu": "00100100111010101100011100000001",
+	"Huident": "Huident 6",
+	"PmatGuid": "01100011101011011110100101110000",
+	"NWeight": 3113.51,
+	"UnitGw": "UnitGw 6",
+	"NVolume": 7108.65,
+	"UnitGv": "UnitGv 6",
+	"Lgnum": "Lgnum 6",
+	"Entitled": "Entitled 6",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 6',GuidHu=00100100111010101100011100000001,Lgnum='Lgnum 6')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 7",
+	"GuidHu": "01101001110001110000000100100111",
+	"Huident": "Huident 7",
+	"PmatGuid": "10001111100100100010001101001011",
+	"NWeight": 8634.83,
+	"UnitGw": "UnitGw 7",
+	"NVolume": 5541.82,
+	"UnitGv": "UnitGv 7",
+	"Lgnum": "Lgnum 7",
+	"Entitled": "Entitled 7",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 7',GuidHu=01101001110001110000000100100111,Lgnum='Lgnum 7')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 8",
+	"GuidHu": "01100110001101000001010011000001",
+	"Huident": "Huident 8",
+	"PmatGuid": "11001001010111110010010001110000",
+	"NWeight": 7506.03,
+	"UnitGw": "UnitGw 8",
+	"NVolume": 3083.76,
+	"UnitGv": "UnitGv 8",
+	"Lgnum": "Lgnum 8",
+	"Entitled": "Entitled 8",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 8',GuidHu=01100110001101000001010011000001,Lgnum='Lgnum 8')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 9",
+	"GuidHu": "10000110011010110111001001011110",
+	"Huident": "Huident 9",
+	"PmatGuid": "10011001101100101100101000101110",
+	"NWeight": 7197.35,
+	"UnitGw": "UnitGw 9",
+	"NVolume": 6975.3,
+	"UnitGv": "UnitGv 9",
+	"Lgnum": "Lgnum 9",
+	"Entitled": "Entitled 9",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 9',GuidHu=10000110011010110111001001011110,Lgnum='Lgnum 9')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 10",
+	"GuidHu": "00010010111111100110001111010010",
+	"Huident": "Huident 10",
+	"PmatGuid": "01001110010001001101010001111100",
+	"NWeight": 3814.8,
+	"UnitGw": "UnitGw 10",
+	"NVolume": 1208.45,
+	"UnitGv": "UnitGv 10",
+	"Lgnum": "Lgnum 10",
+	"Entitled": "Entitled 10",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 10',GuidHu=00010010111111100110001111010010,Lgnum='Lgnum 10')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 1",
+	"GuidHu": "01111110011111011011010001011000",
+	"Huident": "Huident 1",
+	"PmatGuid": "00001100010101100111011001111000",
+	"NWeight": 897.07,
+	"UnitGw": "UnitGw 1",
+	"NVolume": 5575.87,
+	"UnitGv": "UnitGv 1",
+	"Lgnum": "Lgnum 1",
+	"Entitled": "Entitled 1",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 1',GuidHu=01111110011111011011010001011000,Lgnum='Lgnum 1')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 2",
+	"GuidHu": "11001111111101010110001100010011",
+	"Huident": "Huident 2",
+	"PmatGuid": "00000000100010111110101100010101",
+	"NWeight": 3270.41,
+	"UnitGw": "UnitGw 2",
+	"NVolume": 6986.56,
+	"UnitGv": "UnitGv 2",
+	"Lgnum": "Lgnum 2",
+	"Entitled": "Entitled 2",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 2',GuidHu=11001111111101010110001100010011,Lgnum='Lgnum 2')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 3",
+	"GuidHu": "01010011001000100011110000010010",
+	"Huident": "Huident 3",
+	"PmatGuid": "10110101110100000110111001100111",
+	"NWeight": 2244.7,
+	"UnitGw": "UnitGw 3",
+	"NVolume": 137.12,
+	"UnitGv": "UnitGv 3",
+	"Lgnum": "Lgnum 3",
+	"Entitled": "Entitled 3",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 3',GuidHu=01010011001000100011110000010010,Lgnum='Lgnum 3')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 4",
+	"GuidHu": "10011101101010110100101110100111",
+	"Huident": "Huident 4",
+	"PmatGuid": "00000010011100011110001011100011",
+	"NWeight": 9793.62,
+	"UnitGw": "UnitGw 4",
+	"NVolume": 9082.66,
+	"UnitGv": "UnitGv 4",
+	"Lgnum": "Lgnum 4",
+	"Entitled": "Entitled 4",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 4',GuidHu=10011101101010110100101110100111,Lgnum='Lgnum 4')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 5",
+	"GuidHu": "11000101101100011000101111110011",
+	"Huident": "Huident 5",
+	"PmatGuid": "00011000000001101100000100010010",
+	"NWeight": 380.88,
+	"UnitGw": "UnitGw 5",
+	"NVolume": 8528.33,
+	"UnitGv": "UnitGv 5",
+	"Lgnum": "Lgnum 5",
+	"Entitled": "Entitled 5",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 5',GuidHu=11000101101100011000101111110011,Lgnum='Lgnum 5')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 6",
+	"GuidHu": "00000100010110001111000101110100",
+	"Huident": "Huident 6",
+	"PmatGuid": "10101001111000000000011011101011",
+	"NWeight": 3853.93,
+	"UnitGw": "UnitGw 6",
+	"NVolume": 6489.76,
+	"UnitGv": "UnitGv 6",
+	"Lgnum": "Lgnum 6",
+	"Entitled": "Entitled 6",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 6',GuidHu=00000100010110001111000101110100,Lgnum='Lgnum 6')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 7",
+	"GuidHu": "10010000001011101000010110110101",
+	"Huident": "Huident 7",
+	"PmatGuid": "00110101011110010110001000100001",
+	"NWeight": 798.59,
+	"UnitGw": "UnitGw 7",
+	"NVolume": 8768.91,
+	"UnitGv": "UnitGv 7",
+	"Lgnum": "Lgnum 7",
+	"Entitled": "Entitled 7",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 7',GuidHu=10010000001011101000010110110101,Lgnum='Lgnum 7')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 8",
+	"GuidHu": "10011100011110010111101101001100",
+	"Huident": "Huident 8",
+	"PmatGuid": "00001111110000000110101010110101",
+	"NWeight": 2981.78,
+	"UnitGw": "UnitGw 8",
+	"NVolume": 1955.87,
+	"UnitGv": "UnitGv 8",
+	"Lgnum": "Lgnum 8",
+	"Entitled": "Entitled 8",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 8',GuidHu=10011100011110010111101101001100,Lgnum='Lgnum 8')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 9",
+	"GuidHu": "00000100101111000101010111011110",
+	"Huident": "Huident 9",
+	"PmatGuid": "11111110100011101010111011110110",
+	"NWeight": 3497.45,
+	"UnitGw": "UnitGw 9",
+	"NVolume": 7939.64,
+	"UnitGv": "UnitGv 9",
+	"Lgnum": "Lgnum 9",
+	"Entitled": "Entitled 9",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 9',GuidHu=00000100101111000101010111011110,Lgnum='Lgnum 9')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}, {
+	"Mandt": "Mandt 10",
+	"GuidHu": "10110100100011110011000000101001",
+	"Huident": "Huident 10",
+	"PmatGuid": "01100111010111011000001100010111",
+	"NWeight": 9000.75,
+	"UnitGw": "UnitGw 10",
+	"NVolume": 5141.65,
+	"UnitGv": "UnitGv 10",
+	"Lgnum": "Lgnum 10",
+	"Entitled": "Entitled 10",
+	"__metadata": {
+		"uri": "HandlingUnitSet(Mandt='Mandt 10',GuidHu=10110100100011110011000000101001,Lgnum='Lgnum 10')",
+		"type": "ZDEMOSRV_SRV.HandlingUnit"
+	}
+}]

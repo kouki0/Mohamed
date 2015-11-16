@@ -1,0 +1,17 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+
+<List noDataText="Drop list items here" id="__list0">
+
+    <customData>
+
+        <core:CustomData key="sap-ui-fastnavgroup" value="true" writeToDom="true" id="__data0"/>
+
+    </customData>
+
+    <items>
+
+        <StandardListItem type="Navigation" counter="0" title="List Item 1" description="Description text" icon="sap-icon://picture" id="__item1"/>
+
+        </items></List>
+
+</core:FragmentDefinition>

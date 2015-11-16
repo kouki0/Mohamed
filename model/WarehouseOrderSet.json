@@ -1,0 +1,1361 @@
+[{
+	"Mandt": "Mandt 1",
+	"Lgnum": "Lgnum 1",
+	"Who": "Who 1",
+	"Wave": "Wave 1",
+	"Status": "Status 1",
+	"StartBin": "StartBin 1",
+	"Whoid": "01001111110001101010000001010110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 1',Lgnum='Lgnum 1',Who='Who 1')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 1',Lgnum='Lgnum 1',Who='Who 1')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 2",
+	"Lgnum": "Lgnum 2",
+	"Who": "Who 2",
+	"Wave": "Wave 2",
+	"Status": "Status 2",
+	"StartBin": "StartBin 2",
+	"Whoid": "11111010001111110011100111001011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 2',Lgnum='Lgnum 2',Who='Who 2')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 2',Lgnum='Lgnum 2',Who='Who 2')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 3",
+	"Lgnum": "Lgnum 3",
+	"Who": "Who 3",
+	"Wave": "Wave 3",
+	"Status": "Status 3",
+	"StartBin": "StartBin 3",
+	"Whoid": "01111010001110111100111100011110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 3',Lgnum='Lgnum 3',Who='Who 3')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 3',Lgnum='Lgnum 3',Who='Who 3')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 4",
+	"Lgnum": "Lgnum 4",
+	"Who": "Who 4",
+	"Wave": "Wave 4",
+	"Status": "Status 4",
+	"StartBin": "StartBin 4",
+	"Whoid": "01001000111110111000010001010000",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 4',Lgnum='Lgnum 4',Who='Who 4')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 4',Lgnum='Lgnum 4',Who='Who 4')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 5",
+	"Lgnum": "Lgnum 5",
+	"Who": "Who 5",
+	"Wave": "Wave 5",
+	"Status": "Status 5",
+	"StartBin": "StartBin 5",
+	"Whoid": "11000010101100010100101000001110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 5',Lgnum='Lgnum 5',Who='Who 5')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 5',Lgnum='Lgnum 5',Who='Who 5')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 6",
+	"Lgnum": "Lgnum 6",
+	"Who": "Who 6",
+	"Wave": "Wave 6",
+	"Status": "Status 6",
+	"StartBin": "StartBin 6",
+	"Whoid": "11000101010110010001101011001010",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 6',Lgnum='Lgnum 6',Who='Who 6')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 6',Lgnum='Lgnum 6',Who='Who 6')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 7",
+	"Lgnum": "Lgnum 7",
+	"Who": "Who 7",
+	"Wave": "Wave 7",
+	"Status": "Status 7",
+	"StartBin": "StartBin 7",
+	"Whoid": "10110100100101110101011100001001",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 7',Lgnum='Lgnum 7',Who='Who 7')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 7',Lgnum='Lgnum 7',Who='Who 7')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 8",
+	"Lgnum": "Lgnum 8",
+	"Who": "Who 8",
+	"Wave": "Wave 8",
+	"Status": "Status 8",
+	"StartBin": "StartBin 8",
+	"Whoid": "01110101111101100110001000110110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 8',Lgnum='Lgnum 8',Who='Who 8')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 8',Lgnum='Lgnum 8',Who='Who 8')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 9",
+	"Lgnum": "Lgnum 9",
+	"Who": "Who 9",
+	"Wave": "Wave 9",
+	"Status": "Status 9",
+	"StartBin": "StartBin 9",
+	"Whoid": "10000010001010110110100110100111",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 9',Lgnum='Lgnum 9',Who='Who 9')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 9',Lgnum='Lgnum 9',Who='Who 9')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 10",
+	"Lgnum": "Lgnum 10",
+	"Who": "Who 10",
+	"Wave": "Wave 10",
+	"Status": "Status 10",
+	"StartBin": "StartBin 10",
+	"Whoid": "01110100001001010000110101001110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 10',Lgnum='Lgnum 10',Who='Who 10')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 10',Lgnum='Lgnum 10',Who='Who 10')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 1",
+	"Lgnum": "Lgnum 1",
+	"Who": "Who 1",
+	"Wave": "Wave 1",
+	"Status": "Status 1",
+	"StartBin": "StartBin 1",
+	"Whoid": "11001011101011101101101111100010",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 1',Lgnum='Lgnum 1',Who='Who 1')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 1',Lgnum='Lgnum 1',Who='Who 1')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 2",
+	"Lgnum": "Lgnum 2",
+	"Who": "Who 2",
+	"Wave": "Wave 2",
+	"Status": "Status 2",
+	"StartBin": "StartBin 2",
+	"Whoid": "10111111111101100000101010111110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 2',Lgnum='Lgnum 2',Who='Who 2')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 2',Lgnum='Lgnum 2',Who='Who 2')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 3",
+	"Lgnum": "Lgnum 3",
+	"Who": "Who 3",
+	"Wave": "Wave 3",
+	"Status": "Status 3",
+	"StartBin": "StartBin 3",
+	"Whoid": "01010100100001100101010001100000",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 3',Lgnum='Lgnum 3',Who='Who 3')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 3',Lgnum='Lgnum 3',Who='Who 3')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 4",
+	"Lgnum": "Lgnum 4",
+	"Who": "Who 4",
+	"Wave": "Wave 4",
+	"Status": "Status 4",
+	"StartBin": "StartBin 4",
+	"Whoid": "10000111001011000011000111011000",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 4',Lgnum='Lgnum 4',Who='Who 4')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 4',Lgnum='Lgnum 4',Who='Who 4')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 5",
+	"Lgnum": "Lgnum 5",
+	"Who": "Who 5",
+	"Wave": "Wave 5",
+	"Status": "Status 5",
+	"StartBin": "StartBin 5",
+	"Whoid": "11010111011000001011000110011001",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 5',Lgnum='Lgnum 5',Who='Who 5')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 5',Lgnum='Lgnum 5',Who='Who 5')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 6",
+	"Lgnum": "Lgnum 6",
+	"Who": "Who 6",
+	"Wave": "Wave 6",
+	"Status": "Status 6",
+	"StartBin": "StartBin 6",
+	"Whoid": "01001101001110011001010001000111",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 6',Lgnum='Lgnum 6',Who='Who 6')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 6',Lgnum='Lgnum 6',Who='Who 6')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 7",
+	"Lgnum": "Lgnum 7",
+	"Who": "Who 7",
+	"Wave": "Wave 7",
+	"Status": "Status 7",
+	"StartBin": "StartBin 7",
+	"Whoid": "01011100100001111011010110110110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 7',Lgnum='Lgnum 7',Who='Who 7')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 7',Lgnum='Lgnum 7',Who='Who 7')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 8",
+	"Lgnum": "Lgnum 8",
+	"Who": "Who 8",
+	"Wave": "Wave 8",
+	"Status": "Status 8",
+	"StartBin": "StartBin 8",
+	"Whoid": "01100100011101111100101110110011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 8',Lgnum='Lgnum 8',Who='Who 8')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 8',Lgnum='Lgnum 8',Who='Who 8')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 9",
+	"Lgnum": "Lgnum 9",
+	"Who": "Who 9",
+	"Wave": "Wave 9",
+	"Status": "Status 9",
+	"StartBin": "StartBin 9",
+	"Whoid": "01110001110011010011001101010100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 9',Lgnum='Lgnum 9',Who='Who 9')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 9',Lgnum='Lgnum 9',Who='Who 9')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 10",
+	"Lgnum": "Lgnum 10",
+	"Who": "Who 10",
+	"Wave": "Wave 10",
+	"Status": "Status 10",
+	"StartBin": "StartBin 10",
+	"Whoid": "10110010111100000101000011000101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 10',Lgnum='Lgnum 10',Who='Who 10')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 10',Lgnum='Lgnum 10',Who='Who 10')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 11",
+	"Lgnum": "Lgnum 11",
+	"Who": "Who 11",
+	"Wave": "Wave 11",
+	"Status": "Status 11",
+	"StartBin": "StartBin 11",
+	"Whoid": "11011110110101000101000011010011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 11',Lgnum='Lgnum 11',Who='Who 11')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 11',Lgnum='Lgnum 11',Who='Who 11')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 12",
+	"Lgnum": "Lgnum 12",
+	"Who": "Who 12",
+	"Wave": "Wave 12",
+	"Status": "Status 12",
+	"StartBin": "StartBin 12",
+	"Whoid": "01001001100001011110110010011010",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 12',Lgnum='Lgnum 12',Who='Who 12')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 12',Lgnum='Lgnum 12',Who='Who 12')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 13",
+	"Lgnum": "Lgnum 13",
+	"Who": "Who 13",
+	"Wave": "Wave 13",
+	"Status": "Status 13",
+	"StartBin": "StartBin 13",
+	"Whoid": "10001111001111000110100100101010",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 13',Lgnum='Lgnum 13',Who='Who 13')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 13',Lgnum='Lgnum 13',Who='Who 13')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 14",
+	"Lgnum": "Lgnum 14",
+	"Who": "Who 14",
+	"Wave": "Wave 14",
+	"Status": "Status 14",
+	"StartBin": "StartBin 14",
+	"Whoid": "10101011001110011101100000011010",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 14',Lgnum='Lgnum 14',Who='Who 14')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 14',Lgnum='Lgnum 14',Who='Who 14')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 15",
+	"Lgnum": "Lgnum 15",
+	"Who": "Who 15",
+	"Wave": "Wave 15",
+	"Status": "Status 15",
+	"StartBin": "StartBin 15",
+	"Whoid": "10101100101011110000111001100101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 15',Lgnum='Lgnum 15',Who='Who 15')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 15',Lgnum='Lgnum 15',Who='Who 15')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 16",
+	"Lgnum": "Lgnum 16",
+	"Who": "Who 16",
+	"Wave": "Wave 16",
+	"Status": "Status 16",
+	"StartBin": "StartBin 16",
+	"Whoid": "10011001000101101100000110111101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 16',Lgnum='Lgnum 16',Who='Who 16')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 16',Lgnum='Lgnum 16',Who='Who 16')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 17",
+	"Lgnum": "Lgnum 17",
+	"Who": "Who 17",
+	"Wave": "Wave 17",
+	"Status": "Status 17",
+	"StartBin": "StartBin 17",
+	"Whoid": "01010111101111110101111100001100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 17',Lgnum='Lgnum 17',Who='Who 17')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 17',Lgnum='Lgnum 17',Who='Who 17')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 18",
+	"Lgnum": "Lgnum 18",
+	"Who": "Who 18",
+	"Wave": "Wave 18",
+	"Status": "Status 18",
+	"StartBin": "StartBin 18",
+	"Whoid": "01110100111110001011100110011110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 18',Lgnum='Lgnum 18',Who='Who 18')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 18',Lgnum='Lgnum 18',Who='Who 18')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 19",
+	"Lgnum": "Lgnum 19",
+	"Who": "Who 19",
+	"Wave": "Wave 19",
+	"Status": "Status 19",
+	"StartBin": "StartBin 19",
+	"Whoid": "11001101111010101100011111010100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 19',Lgnum='Lgnum 19',Who='Who 19')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 19',Lgnum='Lgnum 19',Who='Who 19')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 20",
+	"Lgnum": "Lgnum 20",
+	"Who": "Who 20",
+	"Wave": "Wave 20",
+	"Status": "Status 20",
+	"StartBin": "StartBin 20",
+	"Whoid": "00111001111100010010111100010001",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 20',Lgnum='Lgnum 20',Who='Who 20')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 20',Lgnum='Lgnum 20',Who='Who 20')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 21",
+	"Lgnum": "Lgnum 21",
+	"Who": "Who 21",
+	"Wave": "Wave 21",
+	"Status": "Status 21",
+	"StartBin": "StartBin 21",
+	"Whoid": "11000011000111011001001100000001",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 21',Lgnum='Lgnum 21',Who='Who 21')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 21',Lgnum='Lgnum 21',Who='Who 21')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 22",
+	"Lgnum": "Lgnum 22",
+	"Who": "Who 22",
+	"Wave": "Wave 22",
+	"Status": "Status 22",
+	"StartBin": "StartBin 22",
+	"Whoid": "10000101001111110111111011110100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 22',Lgnum='Lgnum 22',Who='Who 22')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 22',Lgnum='Lgnum 22',Who='Who 22')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 23",
+	"Lgnum": "Lgnum 23",
+	"Who": "Who 23",
+	"Wave": "Wave 23",
+	"Status": "Status 23",
+	"StartBin": "StartBin 23",
+	"Whoid": "00001101100010010011010101101001",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 23',Lgnum='Lgnum 23',Who='Who 23')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 23',Lgnum='Lgnum 23',Who='Who 23')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 24",
+	"Lgnum": "Lgnum 24",
+	"Who": "Who 24",
+	"Wave": "Wave 24",
+	"Status": "Status 24",
+	"StartBin": "StartBin 24",
+	"Whoid": "11001000010011111101000000010111",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 24',Lgnum='Lgnum 24',Who='Who 24')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 24',Lgnum='Lgnum 24',Who='Who 24')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 25",
+	"Lgnum": "Lgnum 25",
+	"Who": "Who 25",
+	"Wave": "Wave 25",
+	"Status": "Status 25",
+	"StartBin": "StartBin 25",
+	"Whoid": "01010010111000101111011111111000",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 25',Lgnum='Lgnum 25',Who='Who 25')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 25',Lgnum='Lgnum 25',Who='Who 25')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 26",
+	"Lgnum": "Lgnum 26",
+	"Who": "Who 26",
+	"Wave": "Wave 26",
+	"Status": "Status 26",
+	"StartBin": "StartBin 26",
+	"Whoid": "11111101000000000011101010000010",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 26',Lgnum='Lgnum 26',Who='Who 26')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 26',Lgnum='Lgnum 26',Who='Who 26')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 27",
+	"Lgnum": "Lgnum 27",
+	"Who": "Who 27",
+	"Wave": "Wave 27",
+	"Status": "Status 27",
+	"StartBin": "StartBin 27",
+	"Whoid": "01110000000001000011101110011100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 27',Lgnum='Lgnum 27',Who='Who 27')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 27',Lgnum='Lgnum 27',Who='Who 27')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 28",
+	"Lgnum": "Lgnum 28",
+	"Who": "Who 28",
+	"Wave": "Wave 28",
+	"Status": "Status 28",
+	"StartBin": "StartBin 28",
+	"Whoid": "11011100000110111110010001100110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 28',Lgnum='Lgnum 28',Who='Who 28')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 28',Lgnum='Lgnum 28',Who='Who 28')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 29",
+	"Lgnum": "Lgnum 29",
+	"Who": "Who 29",
+	"Wave": "Wave 29",
+	"Status": "Status 29",
+	"StartBin": "StartBin 29",
+	"Whoid": "10110111101000101011111111011110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 29',Lgnum='Lgnum 29',Who='Who 29')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 29',Lgnum='Lgnum 29',Who='Who 29')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 30",
+	"Lgnum": "Lgnum 30",
+	"Who": "Who 30",
+	"Wave": "Wave 30",
+	"Status": "Status 30",
+	"StartBin": "StartBin 30",
+	"Whoid": "11001100111100111010001101001101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 30',Lgnum='Lgnum 30',Who='Who 30')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 30',Lgnum='Lgnum 30',Who='Who 30')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 31",
+	"Lgnum": "Lgnum 31",
+	"Who": "Who 31",
+	"Wave": "Wave 31",
+	"Status": "Status 31",
+	"StartBin": "StartBin 31",
+	"Whoid": "10010010011011011000011001101100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 31',Lgnum='Lgnum 31',Who='Who 31')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 31',Lgnum='Lgnum 31',Who='Who 31')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 32",
+	"Lgnum": "Lgnum 32",
+	"Who": "Who 32",
+	"Wave": "Wave 32",
+	"Status": "Status 32",
+	"StartBin": "StartBin 32",
+	"Whoid": "01111110100010001011110111010000",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 32',Lgnum='Lgnum 32',Who='Who 32')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 32',Lgnum='Lgnum 32',Who='Who 32')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 33",
+	"Lgnum": "Lgnum 33",
+	"Who": "Who 33",
+	"Wave": "Wave 33",
+	"Status": "Status 33",
+	"StartBin": "StartBin 33",
+	"Whoid": "00010011100000011011011010001100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 33',Lgnum='Lgnum 33',Who='Who 33')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 33',Lgnum='Lgnum 33',Who='Who 33')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 34",
+	"Lgnum": "Lgnum 34",
+	"Who": "Who 34",
+	"Wave": "Wave 34",
+	"Status": "Status 34",
+	"StartBin": "StartBin 34",
+	"Whoid": "01101101011101001001101011100111",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 34',Lgnum='Lgnum 34',Who='Who 34')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 34',Lgnum='Lgnum 34',Who='Who 34')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 35",
+	"Lgnum": "Lgnum 35",
+	"Who": "Who 35",
+	"Wave": "Wave 35",
+	"Status": "Status 35",
+	"StartBin": "StartBin 35",
+	"Whoid": "01101000011011000111000000100001",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 35',Lgnum='Lgnum 35',Who='Who 35')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 35',Lgnum='Lgnum 35',Who='Who 35')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 36",
+	"Lgnum": "Lgnum 36",
+	"Who": "Who 36",
+	"Wave": "Wave 36",
+	"Status": "Status 36",
+	"StartBin": "StartBin 36",
+	"Whoid": "00100111101110110111010101010011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 36',Lgnum='Lgnum 36',Who='Who 36')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 36',Lgnum='Lgnum 36',Who='Who 36')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 37",
+	"Lgnum": "Lgnum 37",
+	"Who": "Who 37",
+	"Wave": "Wave 37",
+	"Status": "Status 37",
+	"StartBin": "StartBin 37",
+	"Whoid": "11110100010010111001111010110100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 37',Lgnum='Lgnum 37',Who='Who 37')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 37',Lgnum='Lgnum 37',Who='Who 37')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 38",
+	"Lgnum": "Lgnum 38",
+	"Who": "Who 38",
+	"Wave": "Wave 38",
+	"Status": "Status 38",
+	"StartBin": "StartBin 38",
+	"Whoid": "00101000010111110010101001101011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 38',Lgnum='Lgnum 38',Who='Who 38')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 38',Lgnum='Lgnum 38',Who='Who 38')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 39",
+	"Lgnum": "Lgnum 39",
+	"Who": "Who 39",
+	"Wave": "Wave 39",
+	"Status": "Status 39",
+	"StartBin": "StartBin 39",
+	"Whoid": "11110010110100000111111111010010",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 39',Lgnum='Lgnum 39',Who='Who 39')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 39',Lgnum='Lgnum 39',Who='Who 39')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 40",
+	"Lgnum": "Lgnum 40",
+	"Who": "Who 40",
+	"Wave": "Wave 40",
+	"Status": "Status 40",
+	"StartBin": "StartBin 40",
+	"Whoid": "11100011101100100011010101111000",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 40',Lgnum='Lgnum 40',Who='Who 40')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 40',Lgnum='Lgnum 40',Who='Who 40')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 1",
+	"Lgnum": "Lgnum 1",
+	"Who": "Who 1",
+	"Wave": "Wave 1",
+	"Status": "Status 1",
+	"StartBin": "StartBin 1",
+	"Whoid": "00010111001000101000011100101101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 1',Lgnum='Lgnum 1',Who='Who 1')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 1',Lgnum='Lgnum 1',Who='Who 1')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 2",
+	"Lgnum": "Lgnum 2",
+	"Who": "Who 2",
+	"Wave": "Wave 2",
+	"Status": "Status 2",
+	"StartBin": "StartBin 2",
+	"Whoid": "11010010100111101011111001111101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 2',Lgnum='Lgnum 2',Who='Who 2')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 2',Lgnum='Lgnum 2',Who='Who 2')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 3",
+	"Lgnum": "Lgnum 3",
+	"Who": "Who 3",
+	"Wave": "Wave 3",
+	"Status": "Status 3",
+	"StartBin": "StartBin 3",
+	"Whoid": "01011101011110000100110111101110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 3',Lgnum='Lgnum 3',Who='Who 3')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 3',Lgnum='Lgnum 3',Who='Who 3')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 4",
+	"Lgnum": "Lgnum 4",
+	"Who": "Who 4",
+	"Wave": "Wave 4",
+	"Status": "Status 4",
+	"StartBin": "StartBin 4",
+	"Whoid": "10010000010010101101001001111011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 4',Lgnum='Lgnum 4',Who='Who 4')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 4',Lgnum='Lgnum 4',Who='Who 4')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 5",
+	"Lgnum": "Lgnum 5",
+	"Who": "Who 5",
+	"Wave": "Wave 5",
+	"Status": "Status 5",
+	"StartBin": "StartBin 5",
+	"Whoid": "11111000101110100100000011010001",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 5',Lgnum='Lgnum 5',Who='Who 5')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 5',Lgnum='Lgnum 5',Who='Who 5')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 6",
+	"Lgnum": "Lgnum 6",
+	"Who": "Who 6",
+	"Wave": "Wave 6",
+	"Status": "Status 6",
+	"StartBin": "StartBin 6",
+	"Whoid": "01000000011001110010110011011101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 6',Lgnum='Lgnum 6',Who='Who 6')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 6',Lgnum='Lgnum 6',Who='Who 6')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 7",
+	"Lgnum": "Lgnum 7",
+	"Who": "Who 7",
+	"Wave": "Wave 7",
+	"Status": "Status 7",
+	"StartBin": "StartBin 7",
+	"Whoid": "01110111011110000110101110011110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 7',Lgnum='Lgnum 7',Who='Who 7')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 7',Lgnum='Lgnum 7',Who='Who 7')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 8",
+	"Lgnum": "Lgnum 8",
+	"Who": "Who 8",
+	"Wave": "Wave 8",
+	"Status": "Status 8",
+	"StartBin": "StartBin 8",
+	"Whoid": "11011010011111101010110110000101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 8',Lgnum='Lgnum 8',Who='Who 8')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 8',Lgnum='Lgnum 8',Who='Who 8')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 9",
+	"Lgnum": "Lgnum 9",
+	"Who": "Who 9",
+	"Wave": "Wave 9",
+	"Status": "Status 9",
+	"StartBin": "StartBin 9",
+	"Whoid": "00011010001110011100100010101010",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 9',Lgnum='Lgnum 9',Who='Who 9')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 9',Lgnum='Lgnum 9',Who='Who 9')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 10",
+	"Lgnum": "Lgnum 10",
+	"Who": "Who 10",
+	"Wave": "Wave 10",
+	"Status": "Status 10",
+	"StartBin": "StartBin 10",
+	"Whoid": "01110011011000111110000000000100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 10',Lgnum='Lgnum 10',Who='Who 10')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 10',Lgnum='Lgnum 10',Who='Who 10')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 11",
+	"Lgnum": "Lgnum 11",
+	"Who": "Who 11",
+	"Wave": "Wave 11",
+	"Status": "Status 11",
+	"StartBin": "StartBin 11",
+	"Whoid": "01011001010001111101010100000110",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 11',Lgnum='Lgnum 11',Who='Who 11')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 11',Lgnum='Lgnum 11',Who='Who 11')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 12",
+	"Lgnum": "Lgnum 12",
+	"Who": "Who 12",
+	"Wave": "Wave 12",
+	"Status": "Status 12",
+	"StartBin": "StartBin 12",
+	"Whoid": "01100001011111000110011001110000",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 12',Lgnum='Lgnum 12',Who='Who 12')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 12',Lgnum='Lgnum 12',Who='Who 12')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 13",
+	"Lgnum": "Lgnum 13",
+	"Who": "Who 13",
+	"Wave": "Wave 13",
+	"Status": "Status 13",
+	"StartBin": "StartBin 13",
+	"Whoid": "10000111000011100000110010000011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 13',Lgnum='Lgnum 13',Who='Who 13')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 13',Lgnum='Lgnum 13',Who='Who 13')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 14",
+	"Lgnum": "Lgnum 14",
+	"Who": "Who 14",
+	"Wave": "Wave 14",
+	"Status": "Status 14",
+	"StartBin": "StartBin 14",
+	"Whoid": "10011010000011011001101111101101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 14',Lgnum='Lgnum 14',Who='Who 14')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 14',Lgnum='Lgnum 14',Who='Who 14')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 15",
+	"Lgnum": "Lgnum 15",
+	"Who": "Who 15",
+	"Wave": "Wave 15",
+	"Status": "Status 15",
+	"StartBin": "StartBin 15",
+	"Whoid": "01000001100001111101101110101100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 15',Lgnum='Lgnum 15',Who='Who 15')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 15',Lgnum='Lgnum 15',Who='Who 15')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 16",
+	"Lgnum": "Lgnum 16",
+	"Who": "Who 16",
+	"Wave": "Wave 16",
+	"Status": "Status 16",
+	"StartBin": "StartBin 16",
+	"Whoid": "10011001001011001100000111101001",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 16',Lgnum='Lgnum 16',Who='Who 16')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 16',Lgnum='Lgnum 16',Who='Who 16')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 17",
+	"Lgnum": "Lgnum 17",
+	"Who": "Who 17",
+	"Wave": "Wave 17",
+	"Status": "Status 17",
+	"StartBin": "StartBin 17",
+	"Whoid": "10001110001001101010010011100100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 17',Lgnum='Lgnum 17',Who='Who 17')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 17',Lgnum='Lgnum 17',Who='Who 17')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 18",
+	"Lgnum": "Lgnum 18",
+	"Who": "Who 18",
+	"Wave": "Wave 18",
+	"Status": "Status 18",
+	"StartBin": "StartBin 18",
+	"Whoid": "11111111010000011101111101001111",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 18',Lgnum='Lgnum 18',Who='Who 18')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 18',Lgnum='Lgnum 18',Who='Who 18')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 19",
+	"Lgnum": "Lgnum 19",
+	"Who": "Who 19",
+	"Wave": "Wave 19",
+	"Status": "Status 19",
+	"StartBin": "StartBin 19",
+	"Whoid": "11110111110100101111010011010011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 19',Lgnum='Lgnum 19',Who='Who 19')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 19',Lgnum='Lgnum 19',Who='Who 19')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 20",
+	"Lgnum": "Lgnum 20",
+	"Who": "Who 20",
+	"Wave": "Wave 20",
+	"Status": "Status 20",
+	"StartBin": "StartBin 20",
+	"Whoid": "10001011001111100010100011101011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 20',Lgnum='Lgnum 20',Who='Who 20')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 20',Lgnum='Lgnum 20',Who='Who 20')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 21",
+	"Lgnum": "Lgnum 21",
+	"Who": "Who 21",
+	"Wave": "Wave 21",
+	"Status": "Status 21",
+	"StartBin": "StartBin 21",
+	"Whoid": "11111011111011000110100010100111",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 21',Lgnum='Lgnum 21',Who='Who 21')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 21',Lgnum='Lgnum 21',Who='Who 21')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 22",
+	"Lgnum": "Lgnum 22",
+	"Who": "Who 22",
+	"Wave": "Wave 22",
+	"Status": "Status 22",
+	"StartBin": "StartBin 22",
+	"Whoid": "01010011101000111110100011111011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 22',Lgnum='Lgnum 22',Who='Who 22')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 22',Lgnum='Lgnum 22',Who='Who 22')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 23",
+	"Lgnum": "Lgnum 23",
+	"Who": "Who 23",
+	"Wave": "Wave 23",
+	"Status": "Status 23",
+	"StartBin": "StartBin 23",
+	"Whoid": "00100100001000011000101001100100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 23',Lgnum='Lgnum 23',Who='Who 23')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 23',Lgnum='Lgnum 23',Who='Who 23')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 24",
+	"Lgnum": "Lgnum 24",
+	"Who": "Who 24",
+	"Wave": "Wave 24",
+	"Status": "Status 24",
+	"StartBin": "StartBin 24",
+	"Whoid": "01000110011001110001011011011001",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 24',Lgnum='Lgnum 24',Who='Who 24')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 24',Lgnum='Lgnum 24',Who='Who 24')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 25",
+	"Lgnum": "Lgnum 25",
+	"Who": "Who 25",
+	"Wave": "Wave 25",
+	"Status": "Status 25",
+	"StartBin": "StartBin 25",
+	"Whoid": "00010111011010010100110101111011",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 25',Lgnum='Lgnum 25',Who='Who 25')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 25',Lgnum='Lgnum 25',Who='Who 25')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 26",
+	"Lgnum": "Lgnum 26",
+	"Who": "Who 26",
+	"Wave": "Wave 26",
+	"Status": "Status 26",
+	"StartBin": "StartBin 26",
+	"Whoid": "01111011101100111001010010111111",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 26',Lgnum='Lgnum 26',Who='Who 26')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 26',Lgnum='Lgnum 26',Who='Who 26')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 27",
+	"Lgnum": "Lgnum 27",
+	"Who": "Who 27",
+	"Wave": "Wave 27",
+	"Status": "Status 27",
+	"StartBin": "StartBin 27",
+	"Whoid": "11000010100100010010111001110100",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 27',Lgnum='Lgnum 27',Who='Who 27')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 27',Lgnum='Lgnum 27',Who='Who 27')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 28",
+	"Lgnum": "Lgnum 28",
+	"Who": "Who 28",
+	"Wave": "Wave 28",
+	"Status": "Status 28",
+	"StartBin": "StartBin 28",
+	"Whoid": "00000101100011010011000111100101",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 28',Lgnum='Lgnum 28',Who='Who 28')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 28',Lgnum='Lgnum 28',Who='Who 28')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 29",
+	"Lgnum": "Lgnum 29",
+	"Who": "Who 29",
+	"Wave": "Wave 29",
+	"Status": "Status 29",
+	"StartBin": "StartBin 29",
+	"Whoid": "10000010111001101111000110001010",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 29',Lgnum='Lgnum 29',Who='Who 29')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 29',Lgnum='Lgnum 29',Who='Who 29')/OrderToTasks"
+		}
+	}
+}, {
+	"Mandt": "Mandt 30",
+	"Lgnum": "Lgnum 30",
+	"Who": "Who 30",
+	"Wave": "Wave 30",
+	"Status": "Status 30",
+	"StartBin": "StartBin 30",
+	"Whoid": "11000111100100100101111000100111",
+	"__metadata": {
+		"uri": "WarehouseOrderSet(Mandt='Mandt 30',Lgnum='Lgnum 30',Who='Who 30')",
+		"type": "ZDEMOSRV_SRV.WarehouseOrder"
+	},
+	"OrderToTasks": {
+		"__deferred": {
+			"uri": "WarehouseOrderSet(Mandt='Mandt 30',Lgnum='Lgnum 30',Who='Who 30')/OrderToTasks"
+		}
+	}
+}]

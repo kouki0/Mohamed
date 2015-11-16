@@ -1,0 +1,179 @@
+<core:View xmlns:core="sap.ui.core" xmlns:form="sap.ui.layout.form" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns:sap.me="sap.me" xmlns:sap.ui.layout.form="sap.ui.layout.form" xmlns:sap.ui.layout="sap.ui.layout" xmlns:sap.ui.unified="sap.ui.unified" xmlns="sap.m" controllerName="GoodsReceipt1.view.Purchase">
+	<Page navButtonPress="onNavBack" showNavButton="true" title="Purchase">
+		<content>
+			<IconTabBar backgroundDesign="Translucent" id="__bar0" selectedKey="__filter0">
+				<items>
+					<IconTabFilter count="" icon="sap-icon://functional-location" iconColor="Default" id="__filter1" text="Location">
+						<content>
+							<Label id="__label5" text="Movement type" width="15%"/>
+							<ComboBox id="combo1" items="{/WarehouseTaskSet}" text="/items" width="12%" selectedKey="{Tostat}">
+								<items>
+									<core:Item key="{key}" text="{Who}"/>
+								</items>
+							</ComboBox>
+							<Label id="__label6" text="" width="100%"/>
+							<Label id="__label7" text="Stock type" width="15%"/>
+							<Select id="__select1" items="{path: '/WarehouseTaskSet', sorter: {path: 'Mandt'}}" name="" selectedItem="Element sap.ui.core.ListItem#__item5" selectedItemId="" selectedKey="{Lgnum}" text="/items">
+								<items>
+									<core:Item id="__item5" key="{key}" text="{Wave}"/>
+								</items>
+							</Select>
+							<Label id="__label8" text="" width="100%"/>
+							<Label id="__label9" text="Site" width="15%"/>
+							<Input id="input3" value="{Tanum}" width="35%"/>
+							<Label id="__label10" text="" width="5%"/>
+							<Input id="__input4" value="{Lgnum}" width="8%"/>
+							<Label id="__label13" text="" width="5%"/>
+							<Button icon="sap-icon://action" id="__button4" text="" width="50px"/>
+							<Label id="__label14" text="" width="100%"/>
+							<Label id="__label15" text="Storage location" width="15%"/>
+							<ComboBox id="combo2" items="{path: '/WarehouseTaskSet', sorter: {path: 'Tanum'}}" text="/items" width="12%">
+								<items>
+									<core:Item key="{key}" text="{Who}"/>
+								</items>
+							</ComboBox>
+							<Label id="__label12" text="" width="100%"/>
+							<Label id="__label16" text="Goods recipient" width="15%"/>
+							<Input id="__input6" value="{Priority}" width="35%"/>
+							<Label id="__label18" text="" width="100%"/>
+							<Label id="__label19" text="Unloading Point" width="15%"/>
+							<Input id="__input7" width="35%"/>
+						</content>
+					</IconTabFilter>
+					<IconTabFilter count="" icon="sap-icon://batch-payments" iconColor="Default" id="__filter7" text="Batch">
+						<content>
+							<Label id="__label11" text="Batch" width="15%"/>
+							<Input id="__input5" value="{Whoseq}" width="35%"/>
+							<Label id="__label20" text="" width="5%"/>
+							<Button id="__button3" text="Classification" width="113px"/>
+							<Label id="__label21" text="" width="100%"/>
+							<Label id="__label22" text="Vendor Batch" width="15%"/>
+							<Input id="__input8" value="" width="35%"/>
+							<Label id="__label23" text="" width="100%"/>
+							<Label id="__label24" text="Date Of manufacture" width="15%"/>
+							<DatePicker id="__picker0" width="35%"/>
+							<Label id="__label25" text="" width="100%"/>
+							<Label id="__label26" text="SLED/BBD" width="15%"/>
+							<Input id="__input9" width="35%"/>
+						</content>
+					</IconTabFilter>
+					<IconTabFilter count="" icon="sap-icon://task" iconColor="Default" id="__filter5" text="Quantity">
+						<content>
+							<Label id="__label0" text="Qty in Unit of Entry" width="20%"/>
+							<Input id="__input0" width="35%"/>
+							<Label id="__label1" text="" width="5%"/>
+							<ComboBox items="{path: '/WarehouseTaskSet', sorter: {path: 'Tanum'}}" text="/items" width="12%">
+								<items>
+									<core:Item key="{key}" text="{Mandt}"/>
+								</items>
+							</ComboBox>
+							<Label id="__label2" text="" width="100%"/>
+							<Label id="__label3" text="Qty in Delivery note" width="20%"/>
+							<Input id="__input1" value="" width="35%"/>
+							<Label id="__label4" text="" width="5%"/>
+							<Input id="__input2" value="" width="5%"/>
+						</content>
+					</IconTabFilter>
+					<IconTabFilter icon="sap-icon://overview-chart" iconColor="Default" id="__filter0" text="Overview">
+						<content>
+							<Panel expandAnimation="true" expandable="true" headerText="LOCATION" id="__panel01">
+								<customData>
+									<core:CustomData id="__data141" key="sap-ui-fastnavgroup" value="true" writeToDom="true"/>
+								</customData>
+								<content>
+									<Label id="__label66" text="" width="100%"/>
+									<Label id="__label28" text="Movement type :" width="15%"/>
+									<Label id="__label57" text="" width="2%"/>
+									<Label id="__label17" text="Empty" width="80%"/>
+									<Label id="__label29" text="" width="100%"/>
+									<Label id="__label30" text="Stock type : " width="15%"/>
+									<Label id="__label67" text="" width="2%"/>
+									<Label id="__label31" text="Empty" width="80%"/>
+									<Label id="__label32" text="" width="100%"/>
+									<Label id="__label33" text="Site : " width="15%"/>
+									<Label id="__label34" text="" width="2%"/>
+									<Label id="__label35" text="Empty" width="34%"/>
+									<Label id="__label36" text="" width="2%"/>
+									<Label id="__label37" text="end" width="30%"/>
+									<Label id="__label38" text="" width="100%"/>
+									<Label id="__label39" text="Storage Location : " width="15%"/>
+									<Label id="__label40" text="" width="2%"/>
+									<Label id="__label41" text="Empty" width="80%"/>
+									<Label id="__label42" text="" width="100%"/>
+									<Label id="__label43" text="Goods recipient : " width="15%"/>
+									<Label id="__label44" text="" width="2%"/>
+									<Label id="__label45" text="Empty" width="80%"/>
+									<Label id="__label46" text="" width="100%"/>
+									<Label id="__label47" text="Unloading Point : " width="15%"/>
+									<Label id="__label48" text="" width="2%"/>
+									<Label id="__label49" text="Empty" width="80%"/>
+								</content>
+							</Panel>
+							<Panel expandAnimation="true" expandable="true" headerText="BATCH" id="__panel0">
+								<customData>
+									<core:CustomData id="__data14" key="sap-ui-fastnavgroup" value="true" writeToDom="true"/>
+								</customData>
+								<content>
+									<Label id="__label51" text="Batch : " width="15%"/>
+									<Label id="__label53" text="" width="2%"/>
+									<Label id="__label54" text="" width="83%"/>
+									<Label id="__label55" text="" width="100%"/>
+									<Label id="__label56" text="Vendor Batch :" width="15%"/>
+									<Label id="__label58" text="" width="2%"/>
+									<Label id="__label59" text="Empty" width="83%"/>
+									<Label id="__label61" text="" width="100%"/>
+									<Label id="__label62" text="Date Of manufacture : " width="15%"/>
+									<Label id="__label52" text="" width="2%"/>
+									<Label id="__label72" text="Empty" width="83%"/>
+									<Label id="__label73" text="" width="100%"/>
+									<Label id="__label74" text="SLED/BBD : " width="15%"/>
+									<Label id="__label75" text="" width="2%"/>
+									<Label id="__label76" text="Empty" width="83%"/>
+								</content>
+							</Panel>
+							<Panel expandable="true" headerText="QUANTITY" id="__panel1">
+								<customData>
+									<core:CustomData id="__data13" key="sap-ui-fastnavgroup" value="true" writeToDom="true"/>
+								</customData>
+								<content>
+									<Label id="__label64" text="Qty in Unit of Entry :" width="15%"/>
+									<Label id="__label80" text="" width="2%"/>
+									<Label id="__label81" text="Empty" width="35%"/>
+									<Label id="__label83" text="" width="2%"/>
+									<Label id="__label84" text="Empty" width="35%"/>
+									<Label id="__label85" text="" width="100%"/>
+									<Label id="__label86" text="Qty in Delivery note :" width="15%"/>
+									<Label id="__label87" text="" width="2%"/>
+									<Label id="__label88" text="Empty" width="35%"/>
+									<Label id="__label89" text="" width="2%"/>
+									<Label id="__label90" text="Empty" width="35%"/>
+								</content>
+							</Panel>
+						</content>
+					</IconTabFilter>
+				</items>
+			</IconTabBar>
+		</content>
+		<footer id="detailFooter">
+			<Toolbar id="detailToolbar">
+				<content>
+					<ToolbarSpacer id="toolbarSpacer"/>
+					<Button id="__button1" press="overView" text="Hold" type="Emphasized" width="100px"/>
+					<Button id="__button0" press="browserStorage" text="Save" type="Accept" width="100px"/>
+				</content>
+			</Toolbar>
+		</footer>
+		<headerContent/>
+		
+	</Page>
+	<form:SimpleForm editable="true">
+			<Label text="ValueLiveUpdate"/>
+			<Switch state="{/ValueLiveUpdate}"/>
+			<Label text="Type here"/>
+			<Input id="TypeHere" liveChange="handleLiveChange" value="{/InputValue}" valueLiveUpdate="{/ValueLiveUpdate}"/>
+			<Label text="input.getValue()"/>
+			<Text id="getValue" text=" "/>
+			<Label text="model.getProperty()"/>
+			<Text id="getProperty" text="{/InputValue}"/>
+		</form:SimpleForm>
+</core:View>

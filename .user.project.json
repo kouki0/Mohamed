@@ -1,0 +1,22 @@
+{
+  "run": [
+    {
+      "filePath": "/GoodsReceipt1/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "destBackendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 9117834,
+        "displayName": "New Web Application 1"
+      }
+    }
+  ]
+}
